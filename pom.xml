@@ -39,7 +39,7 @@
       <plugin>
         <groupId>org.sonarsource.scanner.maven</groupId>
         <artifactId>sonar-maven-plugin</artifactId>
-        <version>$latest</version>
+        <version>3.0.2</version>
       </plugin>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
